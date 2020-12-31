@@ -7,7 +7,7 @@
  - gender_submission = provided sample submission
  - my_submission.csv = output from my notebook solution 
 
-# Model: "sequential"
+# Model:
 _________________________________________________________________
 - Layer (type)                 Output Shape              Param #   
 =================================================================
